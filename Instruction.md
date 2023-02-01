@@ -75,6 +75,9 @@ git config --global core.editor "[program]"   -  *установка редак�
 ![Тут должны быть картинка](images.jpg)
 ## Ссылки
 
+- Ссылка на сайт [Githab.com](https://github.com/)
+
+- Обучающий сайт Git [atlassian.com](https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud)
 ## Работа с таблицами
 
 ## Цитаты
